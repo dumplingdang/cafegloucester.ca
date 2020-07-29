@@ -72,7 +72,7 @@ main {
     font-weight: bold;
     padding: 0 0 0;
     background-image: url(../images/vegi-fried-rice.jpg);
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
