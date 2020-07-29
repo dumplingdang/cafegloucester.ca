@@ -73,7 +73,7 @@ main {
     font-weight: bold;
     padding: 0 0 0;
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(250, 250, 210, 0.664)), url(../images/hainanese-chicken-rice-small-screen.jpg);
-    background-size: contain;
+    background-size: auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
