@@ -252,6 +252,9 @@ h2 {
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
+    .main-banner .banner-note{
+        display: none;
+    }
     .main-banner h1 {
         padding: 10%;
         padding-left: 56%;
