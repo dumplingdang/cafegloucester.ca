@@ -65,11 +65,12 @@ header nav {
     display: none;
     width: 100%;
     text-transform: uppercase;
-    font-size: small;
+    font-size: 1.1em;
     border: none;
 }
 
 .show header nav {
+    padding-top: 10px;
     display: block;
     line-height: 2.0;
     text-align: center;
